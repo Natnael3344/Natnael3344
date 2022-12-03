@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning Flutter and Java spring boot  
   
-
-- ❓ Ask me about anything related to flutter and dart  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
