@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Natnael Tamirat, A Full-Stack Android developer 👨‍💻 studying Computer Science and Engineering at G.H Raisoni College of Engineering.🚀</div>  
+### <div align="center">I'm Natnael Tamirat, A Full-Stack Android developer 👨‍💻 studied Computer Science and Engineering at G.H Raisoni College of Engineering.🚀</div>  
   
 
-- 🌱 I’m currently learning Flutter and Java spring boot  
+- 🌱 I’m currently learning React native and Java spring boot  
   
   
 
